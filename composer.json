@@ -1,0 +1,27 @@
+{
+	"name": "rywa/silverstripe-skeleton-theme",
+	"type": "silverstripe-theme",
+	"description": "SilverStripe Theme Based on Skeleton: A Beautiful Boilerplate for Responsive, Mobile-Friendly Development.",
+	"keywords": ["silverstripe", "theme", "skeleton", "css", "responsive"],
+	"license": "MIT Open Source License",
+	"authors": [
+		{
+			"name": "Ryan Wachtl",
+			"homepage": "http://rywa.us"
+		}
+	],
+	"require":
+	{
+		"composer/installers": "*",
+		"silverstripe/framework": "~3.0"
+	},
+	"extra": {
+		"installer-name": "skeleton",
+		"branch-alias": {
+			"dev-master": "0.9.x-dev"
+		}
+	},
+	"support": {
+		"issues": "https://github.com/ryanwachtl/silverstripe-skeleton-theme/issues"
+	}
+}
