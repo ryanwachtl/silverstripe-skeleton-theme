@@ -27,4 +27,4 @@ in `/mysite/_config/config.yml`
 Requirements
 =================================
 
-[SilverStripe](https://github.com/silverstripe/silverstripe-framework) 3.1.x
+[SilverStripe 3](https://github.com/silverstripe/silverstripe-framework)
